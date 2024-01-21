@@ -1,8 +1,6 @@
-x=input("put the first number: ")
-x=int(x)
+x=int(input("put the first number: "))
 z=input("put the operator '+' or '-' or '*' or '/' ")
-y=input("put the second number: ")
-y=int(y)
+y=int(input("put the second number: "))
 if z=="+":
   print(x+y)
 elif z=="-":
